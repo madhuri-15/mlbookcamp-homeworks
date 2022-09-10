@@ -1,1 +1,1 @@
-# mlbookcamp-homeworks
+# Machine learning BookCamp-Homeworks
