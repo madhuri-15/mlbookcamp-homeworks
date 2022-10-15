@@ -6,7 +6,7 @@ COPY ["Pipfile", "Pipfile.lock", "./"]
 
 RUN  pipenv install --deploy --system
 
-COPY ["app_service.py", "model1.bin", "dv.bin",  "./"]
+COPY ["app_service.py",  "./"]
 
 EXPOSE 9696
 

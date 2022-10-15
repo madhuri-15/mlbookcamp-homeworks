@@ -11,8 +11,8 @@ Commands  to run docker files in command prompt
 ```
 
 To Test the app service
---- 
+---
 
 ```
-> pipenv run python client_test.py 
+> python client_test.py 
 ```
