@@ -1,0 +1,11 @@
+service: "service.py:svc" 
+labels:
+   owner: madhuri
+   stage: dev
+   project: week7-ml-zoomcamp-BentoML-learning
+include:
+- "service.py" 
+python:
+   packages:
+   - scikit-learn
+   - xgboost
