@@ -2,8 +2,24 @@
 
 import bentoml
 
+from pydantic import BaseModel
 from bentoml.io import JSON
 
+class CreditApplication(BaseModel):
+    seniority: int
+    home: str
+    time: int
+    age: int
+    marital: str
+    records: str
+    job: str
+    expenses: int
+    income: float
+    assets: float
+    debt: float
+    amount: int
+    price: int
+    
 TAG = "credit_clf:latest"
 
 # Create a model reference
@@ -16,8 +32,9 @@ xgb_runner = xgb_ref.to_runner()
 svc = bentoml.Service("credit_classifier", runners=[xgb_runner])
 
 
-@svc.api(input=JSON(), output=JSON())
-def classify(application_data):
+@svc.api(input=JSON(pydantic_model=CredictApplication), output=JSON())
+def classify(credit_application):
+    appliction_data = credit_application.dict()
     vector = dv.transform(application_data)         # data transformation
     prediction = xgb_runner.predict.run(vector)
 
