@@ -13,11 +13,11 @@ Dataset
 ---
 This dataset is downloaded from analytic vidya's hackthon.
 
-You can find the dataset [here]()
+You can find the dataset [here](https://github.com/madhuri-15/mlbookcamp-homeworks/tree/main/Mid-term%20Project/data)
 
 There are two csv data files.
-* [train.csv]() : This dataset can be used for exploratary data analsis and for training machine learning model.
-* [test.csv]() : This dataset can be used to predict the output using ML model.
+* [train.csv](https://github.com/madhuri-15/mlbookcamp-homeworks/tree/main/Mid-term%20Project/data/train.csv) : This dataset can be used for exploratary data analsis and for training machine learning model.
+* [test.csv](https://github.com/madhuri-15/mlbookcamp-homeworks/tree/main/Mid-term%20Project/data/test.csv) : This dataset can be used to predict the output using ML model.
 
 |variables | description|
 |-|-|
