@@ -7,7 +7,9 @@
 |4|Evaluation Metrics for Classification|:books: [Evaluation Metrics](https://github.com/madhuri-15/mlbookcamp-homeworks/blob/main/Week4-Evaluation%20Metrics/EvaluationMetricsForClassification.ipynb)|[HW-Week #4](https://github.com/madhuri-15/mlbookcamp-homeworks/blob/main/Week4-Evaluation%20Metrics/HomeWork-4/evaluation_metrics.ipynb)|:ballot_box_with_check:|
 |5|Deploying Machine Linearing Models|[Model deployment using flask and docker](https://github.com/madhuri-15/mlbookcamp-homeworks/tree/main/Week5-Model%20deployment) |[HW-Week #5](https://github.com/madhuri-15/mlbookcamp-homeworks/tree/main/Week5-Model%20deployment/Homework-%235)|:ballot_box_with_check:|
 |6|Decision Tree and Ensemble Learning|:books: [Credit Defaults Classification](https://github.com/madhuri-15/mlbookcamp-homeworks/blob/main/Week6-Trees%20%26%20ensembles/credit_score.ipynb)|[HW-Week #6](https://github.com/madhuri-15/mlbookcamp-homeworks/blob/main/Week6-Trees%20%26%20ensembles/homework-%236/solution.ipynb)|:ballot_box_with_check:|
-|7|Neural Networks and Deep Learning|
-|8|Serverless Deep Learning|
-|9|Kubernetes and Kubeflow|
+|7|Production-Ready ML (Bento ML)|[BentoML](https://github.com/madhuri-15/mlbookcamp-homeworks/tree/main/Week7-BentoML)|[HW-Week #7](https://github.com/madhuri-15/mlbookcamp-homeworks/tree/main/Week7-BentoML/Homework)|:ballot_box_with_check:|
+|8|Mid-Term Project||
+|9|Neural Networks and Deep Learning|
+|10|Serverless Deep Learning|
+|11|Kubernetes and Kubeflow|
 
