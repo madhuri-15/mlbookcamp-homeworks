@@ -1,4 +1,4 @@
-# Machine learning BookCamp
+# Machine Learning BookCamp
 ||Topics|Projects|Homework|Status of Completion|
 |--|--|--|--|--|
 |1|Introduction to Machine Learning |[HW-Week #1](https://github.com/madhuri-15/mlbookcamp-homeworks/blob/main/Week1-Introduction/homework%20%231.ipynb)||:ballot_box_with_check:|
