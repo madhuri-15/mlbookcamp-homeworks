@@ -9,7 +9,7 @@
 |6|Decision Tree and Ensemble Learning|:books: [Credit Defaults Classification](https://github.com/madhuri-15/mlbookcamp-homeworks/blob/main/Week6-Trees%20%26%20ensembles/credit_score.ipynb)|[Homework](https://github.com/madhuri-15/mlbookcamp-homeworks/blob/main/Week6-Trees%20%26%20ensembles/homework-%236/solution.ipynb)|:ballot_box_with_check:|
 |7|Production-Ready ML (Bento ML)|[BentoML](https://github.com/madhuri-15/mlbookcamp-homeworks/tree/main/Week7-BentoML)|[Homework](https://github.com/madhuri-15/mlbookcamp-homeworks/tree/main/Week7-BentoML/Homework)|:ballot_box_with_check:|
 |8|Mid-Term Project|[Home loan approval predictions](https://github.com/madhuri-15/home-loan-approval-prediction)|[Web-app]( https://home-loan-approval.herokuapp.com)|:ballot_box_with_check:|
-|9|Deep Learning|:books:[Image Classification](https://github.com/madhuri-15/mlbookcamp-homeworks/blob/main/Week8-DeepLearning/Week8%20-%20Deep%20Learning.ipynb)|
+|9|Deep Learning|:books:[Image Classification](https://github.com/madhuri-15/mlbookcamp-homeworks/blob/main/Week8-DeepLearning/Week8%20-%20Deep%20Learning.ipynb)|[Homework](https://github.com/madhuri-15/mlbookcamp-homeworks/blob/main/Week8-DeepLearning/Week8%20-%20Deep%20learning%20homework.ipynb) |:ballot_box_with_check:|
 |10|Serverless Deep Learning|
 |11|Kubernetes and Kubeflow|
 
